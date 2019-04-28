@@ -1,0 +1,12 @@
+#anik{
+	background-image: url("../img/transport.png");
+	background-size: cover;
+	background-attachment: fixed;
+}
+#new{
+	margin-left: 450px;
+}
+
+#sb{
+	height: 233px;
+}
